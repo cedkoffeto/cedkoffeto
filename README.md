@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cedkoffeto&theme=dark&background=000000)](https://git.io/streak-stats)
+<img alt="stats" align='right' src="https://github-readme-stats.vercel.app/api?username=Aymane11&show_icons=true&theme=dark&hide_border=true" width="400">
 
 <!--
 **cedkoffeto/cedkoffeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
