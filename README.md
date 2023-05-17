@@ -1,10 +1,10 @@
 ### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cedkoffeto&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **cedkoffeto/cedkoffeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cedkoffeto&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on ...
